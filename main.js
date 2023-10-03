@@ -29,8 +29,8 @@ navBgOverlayEl.addEventListener('click', navClose)
 // AOS
 // AOS.refreshHard();
 AOS.init({
-  offset: 200, // offset (in px) from the original trigger point
-  delay: 1000, // values from 0 to 3000, with step 50ms
+  offset: 100, // offset (in px) from the original trigger point
+  delay: 300, // values from 0 to 3000, with step 50ms
   duration: 400, // values from 0 to 3000, with step 50ms
   easing: 'ease', // default easing for AOS animations
   once: false, // whether animation should happen only once - while scrolling down
